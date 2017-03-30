@@ -1,0 +1,5 @@
+tox==2.6.0
+mock==2.0.0
+distribute
+pytest==3.0.7
+configparser==3.5.0
